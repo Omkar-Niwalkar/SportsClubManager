@@ -5,3 +5,7 @@ Sport: Cricket
 Coach 2: 
 Name: Soham Sachin Ajgaonkar
 Sport: Chess
+
+Coach 3: 
+Name: Amit Parag Phadke
+Sport: Wrestling
