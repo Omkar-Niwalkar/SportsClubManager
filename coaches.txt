@@ -9,3 +9,7 @@ Sport: Chess
 Coach 3: 
 Name: Amit Parag Phadke
 Sport: Wrestling
+
+Coach 4: 
+Name: Naman Bipin Panchal
+Sport: Carrom
