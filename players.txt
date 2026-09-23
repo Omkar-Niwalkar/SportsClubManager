@@ -7,3 +7,5 @@ Player 2:
 Name: Virat
 Sport: Hockey
 Position: Second
+
+Note: Max is not a certified player
