@@ -1,1 +1,2 @@
 the players are put through a rigourous 21 days fasting screening test
+This is a sample line added to commit into the owner's remote repository.
